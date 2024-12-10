@@ -9,3 +9,7 @@
 
 ## API 명세서
 
+<img width="751" alt="image" src="https://github.com/user-attachments/assets/dbd4a16c-79b9-4f35-a2d8-e0bd9d5d3876">
+
+## ERD
+
