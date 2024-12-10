@@ -13,3 +13,4 @@
 
 ## ERD
 
+<img width="750" alt="스크린샷 2024-12-10 10 38 45" src="https://github.com/user-attachments/assets/9606937c-83b2-4a16-9e12-a35bcd8e02cc">
